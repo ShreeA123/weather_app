@@ -1,0 +1,106 @@
+{
+  "Bengaluru": {
+    "2026-06-15": {
+      "temp_C": "30",
+      "description": "Partly cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "62",
+      "wind_speed": "23",
+      "precip_chance": "20"
+    },
+    "2026-06-13": {
+      "temp_C": "26",
+      "description": "Partly cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "62",
+      "wind_speed": "22",
+      "precip_chance": "8"
+    },
+    "2026-06-14": {
+      "temp_C": "25",
+      "description": "Partly cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "62",
+      "wind_speed": "22",
+      "precip_chance": "9"
+    }
+  },
+  "Chennai": {
+    "2026-06-15": {
+      "temp_C": "38",
+      "description": "Partly Cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "51",
+      "wind_speed": "19",
+      "precip_chance": "24"
+    },
+    "2026-06-13": {
+      "temp_C": "36",
+      "description": "Partly Cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "61",
+      "wind_speed": "8",
+      "precip_chance": "30"
+    },
+    "2026-06-14": {
+      "temp_C": "37",
+      "description": "Partly Cloudy",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png",
+      "humidity": "45",
+      "wind_speed": "9",
+      "precip_chance": "38"
+    }
+  },
+  "Hyderabad": {
+    "2026-06-15": {
+      "temp_C": "33",
+      "description": "Mist",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "47",
+      "wind_speed": "20",
+      "precip_chance": "7"
+    },
+    "2026-06-13": {
+      "temp_C": "32",
+      "description": "Mist",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "50",
+      "wind_speed": "17",
+      "precip_chance": "1"
+    },
+    "2026-06-14": {
+      "temp_C": "30",
+      "description": "Mist",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "57",
+      "wind_speed": "21",
+      "precip_chance": "10"
+    }
+  },
+  "Andhra Pradesh (East Coast)": {
+    "2026-06-15": {
+      "temp_C": "33",
+      "description": "Mist",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "47",
+      "wind_speed": "20",
+      "precip_chance": "7"
+    },
+    "2026-06-13": {
+      "temp_C": "35",
+      "description": "Sunny",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "44",
+      "wind_speed": "22",
+      "precip_chance": "0"
+    },
+    "2026-06-14": {
+      "temp_C": "33",
+      "description": "Mist",
+      "icon_url": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png",
+      "humidity": "51",
+      "wind_speed": "21",
+      "precip_chance": "7"
+    }
+  }
+}
