@@ -24,3 +24,15 @@ Setup & run (quick)
 -pip install -r requirements.txt
 -streamlit run main.py
 -Open http://localhost:8501
+
+
+For the next step we can make some modifications in the code to include whole of India with weather of 30 major cities.
+Steps to do so: 
+-Search for 30 major cities(or any number of cities within India)
+-Change the scrapper file so as it gets data of the listed cities
+-You will have to change the source of data(as weather25.com has limited no of Indian cities, so https://www.accuweather.com can be another alternative
+-Refactor scrapper.py into providers/base.py and providers/openweathermap.py (e.g: from weather25 to Acuweather).
+-The scrapped data will be added to the weather_cache.json
+-Update main.py to load weather_cache.json
+
+
